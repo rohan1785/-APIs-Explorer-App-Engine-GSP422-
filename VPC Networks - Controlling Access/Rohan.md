@@ -1,6 +1,5 @@
 # VPC Networks - Controlling Access
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/aAga4TtblP0)
 
 > **Note:** VPC Networks - Controlling Access (GSP213)
 
