@@ -1,8 +1,9 @@
-**It Speaks! Create Synthetic Speech Using Text-to-Speech || GSP222**
+# It Speaks! Create Synthetic Speech Using Text-to-Speech || GSP222
 
 
-> **Note:** VPC Networks - Controlling Access (GSP213)
+> **Note:** It Speaks! Create Synthetic Speech Using Text-to-Speech (GSP222)
 
+---
 ---
 ### 🤝 Support
 If you found this helpful, please **Subscribe** to [Tech With Ro](http://www.youtube.com/@ro_patil) for more Google Cloud solutions!
