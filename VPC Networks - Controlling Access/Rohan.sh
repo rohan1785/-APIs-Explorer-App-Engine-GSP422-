@@ -24,7 +24,7 @@ RESET=`tput sgr0`
 
 #----------------------------------------------------start--------------------------------------------------#
 
-echo "${BG_CYAN}${BLACK}${BOLD}Welcome to Dr abhishek cloud Tutorial${RESET}"
+echo "${BG_CYAN}${BLACK}${BOLD}Welcome to Tech With Ro${RESET}"
 
 # Ask for zone input
 echo "${YELLOW}${BOLD}Please enter the zone value to export (e.g., us-central1-a):${RESET}"
