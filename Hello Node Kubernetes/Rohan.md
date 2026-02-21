@@ -20,7 +20,7 @@ If you found this helpful, please **Subscribe** to [Tech With Ro](http://www.you
 ## ☁️ Run in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/kailashparmar801/Google_Cloud_Arcade_Labs_Solutions/master/Hello%20Node%20Kubernetes/Rohan.sh
+curl -LO raw.githubusercontent.com/rohan1785/Google-Arcade-2026/master/Hello%20Node%20Kubernetes/Rohan.sh
 sudo chmod +x Rohan.sh
 ./Rohan.sh
 ```
